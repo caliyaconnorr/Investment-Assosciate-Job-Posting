@@ -1,7 +1,7 @@
 You’ll review a sample quarterly investment report and prepare:
 <br>
-• A written Investment Policy Statement (IPS) that outlines your recommended approach for the fictional client <br>
-• A 5–10 slide presentation summarizing your analysis and recommendations <br>
+• A written Investment Policy Statement (IPS) that outlines your recommended approach for the fictional client <br> (Max 2 pages)
+• A 5 slide presentation summarizing your analysis and recommendations <br>
 
 The materials needed, including the report and detailed instructions, are attached in the repository.
 
